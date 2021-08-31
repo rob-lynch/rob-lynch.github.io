@@ -9,7 +9,7 @@ __Languages:__ Java, Go, Python, C#, Node.js, Powershell, Groovy, TSQL
 
 __Tooling:__ Jenkins, Spinnaker, Terraform, Sonarqube, IQServer, Contrast
 
-__Package Management:__ Artifactory, Quay, Nexus, NuGet, Chocolately
+__Package Management:__ Artifactory, Quay, Nexus, NuGet, Chocolatey
 
 __Database:__ MSSQL, Postgres, Oracle DB, Redis, Mongo, MySQL
 
