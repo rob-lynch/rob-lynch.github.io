@@ -30,7 +30,7 @@ __Project Tracking:__ Jira, Salesforce, Asana, Oracle Service Cloud (RightNow)
 
 ### Software Engineering Manager - October 2020 to Present
 
-Manager of the Commerce Cloud Delivery Engineering Team.
+Manager of the Commerce Cloud Delivery Engineering Team
 
 Distributed across the US, the team provides the services required to reliably release and orchestrate minimally disruptive deployments of software artifacts into Commerce Cloud's (CC) first party and public cloud environments.
 
@@ -38,8 +38,8 @@ The team works to promote a culture of innovation, quality and service ownership
 
 Core Managerial Values and Mantras:
 
-* Providing a high level of autonomy and a psychologically safe environment, to allow for calculated risk taking and room for failure.
-* Maintaining a honest, trusting channel of communication with direct reports - ensuring everyone has a voice, by providing an equitable platform that empowers individuals to speak their mind, through weekly team meetings and one on ones.
+* Providing a high level of autonomy and a psychologically safe environment to allow for calculated risk taking and room for failure.
+* Maintaining a honest, trusting channel of communication with direct reports - ensuring everyone has a voice by providing an equitable platform that empowers individuals to speak their mind through weekly team meetings and one on ones.
 * Driving a healthy habit of RCCAs and Post Mortem discussions when issues arise, focusing on lessons learned and areas of improvement.
 * Stressing the importance of continual self-improvement through personal development.
 * Encouraging time for passion projects such as Hackathons and filing patentable work.
@@ -47,7 +47,7 @@ Core Managerial Values and Mantras:
 * "Family first" - allowing reports to maintain a healthy work/life balance, by prioritizing their personal and familial wellbeing.
 * "The proof is in the data" - quantifiable problems promote change. Instilling the value of metrics to strengthen an argument or validate a requirement.
 * "Knowledge is Power" - fostering the importance of regularly holding team demos, tech talks and knowledge transfers to ensure outward growth as a team.
-* "ABD: Always be Documenting" - not only critical to amass knowledge that can easily be disseminated, but for encouraging healthy asynchronous collaboration.
+* "ABD: Always be Documenting" - not only critical to amassing knowledge that can easily be disseminated, but for encouraging healthy asynchronous collaboration.
 * “Success through trust” - delivering projects as promised and on time, while taking accountability when things don't go as planned.
 
 Responsibilities:
@@ -63,7 +63,7 @@ Key Contributions:
 
 * Defined an escalation and support model via an L4/L5 on-call PagerDuty rotation.
 * Implemented a living "Team Working Agreement" to encapsulate what's needed for success as a distributed team.
-* Enforced 100% Security Assessment coverage for all engineering work.
+* Enforced Security Assessment and Change Management requirements for all eligible engineering work.
 * Ensured no slippage in the customer communicated release calendar of ECOM (The CC monolith).
 
 ### Lead Member Of Technical Staff - May 2018 to October 2020
