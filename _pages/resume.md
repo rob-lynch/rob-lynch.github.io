@@ -88,15 +88,13 @@ Joined the newly formed Productivity team and was given the opportunity to lead 
 
 Embedded in the CC Order Management (OM) team, with a focus on streamlining and improving the software development life-cycle.
 
-## Nuance Communications – June 2014 to October 2016
+## Nuance Communications - January 2013 to October 2016
 
-### Systems & Infrastructure Manager
+### Systems & Infrastructure Manager – June 2014 to October 2016
 
 Transitioned to managing the CRM systems utilized by Nuance’s support teams worldwide. Challenged to streamline and improve system workflows to better the customer’s experience and lower cost per touch.
 
-## Nuance Communications – January 2013 to June 2014
-
-### Senior Systems Support Analyst
+### Senior Systems Support Analyst - January 2013 to June 2014
 
 Upon acquisition of Control Systems/Copitrak, shifted back to a technical role, with a focus on resolving issues escalated from North American customers.
 
