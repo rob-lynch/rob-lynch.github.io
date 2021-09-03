@@ -5,23 +5,23 @@ title: "Resume"
 
 # Tech Stack
 
-__Languages:__ Java, Go, Python, C#, Node.js, Powershell, Groovy, TSQL
+__Languages:__ Java, Go, Python, C#, Node.js, PowerShell, Groovy, TSQL
 
 __Tooling:__ Jenkins, Spinnaker, Terraform, Sonarqube, IQServer, Contrast
 
 __Artifact Management:__ Artifactory, Quay, Nexus, NuGet, Chocolatey
 
-__Database:__ MSSQL, Postgres, Oracle DB, Redis, Mongo, MySQL
+__Database:__ MSSQL, PostgreSQL, Oracle DB, Redis, MongoDB, MySQL
 
 __Source Control:__ GitHub, Bitbucket, TFS, Perforce
 
-__Platforms:__ AWS, Heroku, Openstack, Hyper-V, Docker, Kubernetes, Hyperforce
+__Platforms:__ AWS, Heroku, OpenStack, Hyper-V, Docker, Kubernetes, Hyperforce
 
 __Monitoring and Alerting:__ Grafana, ELK, Splunk, Argus, Prometheus, Graphite, PagerDuty, Datadog
 
-__Testing:__ JUnit, VSTest, Pester, Selenium, Terratest, LocalStack
+__Testing:__ JUnit, MSTest, Pester, Selenium, Terratest, LocalStack
 
-__Project Tracking:__ Jira, Salesforce, Asana, Oracle Service Cloud (RightNow)
+__Project/Work Tracking:__ Jira, Salesforce, Asana, Oracle Service Cloud (RightNow)
 <br/><br/><br/>
 
 # Work Experience
