@@ -9,7 +9,7 @@ __Languages:__ Java, Go, Python, C#, Node.js, Powershell, Groovy, TSQL
 
 __Tooling:__ Jenkins, Spinnaker, Terraform, Sonarqube, IQServer, Contrast
 
-__Package Management:__ Artifactory, Quay, Nexus, NuGet, Chocolatey
+__Artifact Management:__ Artifactory, Quay, Nexus, NuGet, Chocolatey
 
 __Database:__ MSSQL, Postgres, Oracle DB, Redis, Mongo, MySQL
 
@@ -86,7 +86,7 @@ Joined the newly formed Productivity team and was given the opportunity to lead 
 
 ### Senior Member of Technical Staff - October 2016 to May 2018
 
-Embedded in the CC Order Management (OM) team, with a focus on streamlining and improving the software development life-cycle.
+Embedded in the CC Order Management team, with a focus on streamlining and improving the software development life-cycle.
 
 ## Nuance Communications - January 2013 to October 2016
 
